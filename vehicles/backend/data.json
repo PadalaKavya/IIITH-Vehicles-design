@@ -1,0 +1,53 @@
+ [{
+    "id":1,
+    "ARAIMileage" : "12.65 kmpl",
+    "bhp" : "6250rpm",
+    "TransmissionType" :"Automatic"
+},
+
+{
+    "id":2,
+    "ARAIMileage" : "13.65 kmpl",
+    "bhp" : "6250rpm",
+    "TransmissionType" :"Automatic"
+
+},
+{
+    "id":3,
+    "ARAIMileage" : "11.6 kmpl",
+    "bhp" : "6250rpm",
+    "TransmissionType" :"Automatic"
+},
+{
+    "id":4,
+    "ARAIMileage" : "10.65 kmpl",
+    "bhp" : "6250rpm",
+    "TransmissionType" :"Automatic"
+},
+{
+    "id":5,
+    "ARAIMileage" : "14.5 kmpl",
+    "bhp" : "6250rpm",
+    "TransmissionType" :"Automatic"
+
+},
+{
+    "id":6,
+    "ARAIMileage" : "12.95 kmpl",
+    "bhp" : "6250rpm",
+    "TransmissionType" :"Automatic"
+
+},
+{
+    "id":7,
+    "ARAIMileage" : "15.2 kmpl",
+    "bhp" : "6250rpm",
+    "TransmissionType" :"Automatic"
+
+},
+{
+    "id":8,
+    "ARAIMileage" : "10.65 kmpl",
+    "bhp" : "6250rpm",
+    "TransmissionType" :"Automatic"
+}]
